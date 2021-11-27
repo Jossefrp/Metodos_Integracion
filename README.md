@@ -10,6 +10,6 @@ pip install -r requirement.txt
 ```
 
 #### Ejemplo: 
-![Enunciado de ejemplo](https://raw.githubusercontent.com/Jossefrp/Metodos_Integracion/master/Problema_ejemplo.png)
+![Enunciado de ejemplo](https://raw.githubusercontent.com/Jossefrp/Metodos_Integracion/master/img/Problema_ejemplo.png)
 
-![Ejecución del programa](https://raw.githubusercontent.com/Jossefrp/Metodos_Integracion/master/NewtonCotes_ejecucion.png)
+![Ejecución del programa](https://raw.githubusercontent.com/Jossefrp/Metodos_Integracion/master/img/NewtonCotes_ejecucion.png)
